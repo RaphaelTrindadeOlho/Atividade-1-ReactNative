@@ -1,2 +1,2 @@
-# Atividade-1-ReactNative
+# Atividade-2-ReactNative
 Quiz
