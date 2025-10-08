@@ -1,4 +1,3 @@
-// CÓDIGO COMPLETO PARA O APP DE QUIZ (Arquivo: App.js)
 
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, TouchableOpacity, ScrollView } from 'react-native';
